@@ -1,4 +1,4 @@
-# Mini Project 2: Credit Risk Prediction
+# Credit Risk Prediction System
 
 A Python notebook that explores a credit risk dataset and compares four classifiers:
 
